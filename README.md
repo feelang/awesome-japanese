@@ -3,6 +3,7 @@
 - [日本語文法の基礎 by wordrabbit](https://wordrabbit.jp/grammar/)
 - [敬語入門日本語版](http://nihongo.hum.tmu.ac.jp/mic-j/hyperkeigo/japan/main-j.html)
 - [コトバの意味辞典](https://word-dictionary.jp/)
+- [ことわざ・慣用句の百科事典](https://proverb-encyclopedia.com/)
 - [旅する応用言語学](https://www.nihongo-appliedlinguistics.net/)
 - [日本語教師の広場](https://www.tomojuku.com/blog/)
 - [にほんご日和](https://haa.athuman.com/media/japanese/)
